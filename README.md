@@ -1,3 +1,3 @@
-﻿# tkinter_python
+﻿# browse_folder_tkinter_python
 
-browse file path or directory
+browse file path or directory using tkinter python
